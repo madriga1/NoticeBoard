@@ -1,3 +1,5 @@
+[![GitHub Super-Linter](https://github.com/madriga1/NoticeBoard/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 # Noticeboard CRUD application
 
 ![Master Branch](https://github.com/wkrzywiec/NoticeBoard/workflows/Master%20Branch/badge.svg) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=wkrzywiec_NoticeBoard&metric=coverage)](https://sonarcloud.io/dashboard?id=wkrzywiec_NoticeBoard) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wkrzywiec_NoticeBoard&metric=alert_status)](https://sonarcloud.io/dashboard?id=wkrzywiec_NoticeBoard)
